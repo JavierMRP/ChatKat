@@ -31,13 +31,13 @@ Este proyecto consiste en el desarrollo de una aplicación fullstack para clases
 ## Instalación y Ejecución
 1. Clona este repositorio en tu máquina local.
 
-- **Base de Datos**
+# Cómo Correr la base de Mysql en Docker-compose
 1. La base de datos fue desarrollada en Mysql usando Doker por lo que debemos clonar el repositorio y la infraestuctura con el siguiente comando:
  ```
 docker-compose -d up
 ```
 3. Doker instalara las dependencias pertinentes y dejara la base de datos en un endpoint con el puerto 3306.
-   - **Backend**
+
 # Cómo Correr el Proyecto de Spring Boot
 
 Sigue estos pasos para ejecutar el proyecto de Spring Boot en tu entorno local:
@@ -92,7 +92,7 @@ Detener la Aplicación
 
 Para detener la aplicación, simplemente presiona Ctrl + C en la terminal donde se está ejecutando el proyecto de Spring Boot.
 
-- **Frontend**: Se establecieron roles de usuario, permitiendo asignar privilegios especiales como convertir estudiantes en moderadores para ciertas clases.
+
 # Cómo Correr el Proyecto de ReactJS con npm
 
 Sigue estos pasos para ejecutar el proyecto de ReactJS en tu entorno local:
@@ -146,7 +146,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 
 
- # JWT Tokens for autenticaion
+ # JWT Tokens for Authentication
  ![spring-security-refresh-token-jwt-spring-boot-flow](https://github.com/JavierMRP/ChatKat/assets/87096457/faa99a64-152e-47c2-99fe-d1520c2a2587)
 
 
