@@ -1,8 +1,6 @@
 # ChatKat
  RealTime Chat For Streaming Class
 
-https://github.com/JavierMRP/ChatKat/assets/87096457/4ef07ad7-76b5-4a29-bb48-6795aa35bfc5
-
 # Descripción del Proyecto
 
 Este proyecto consiste en el desarrollo de una aplicación fullstack para clases de streaming online, utilizando tecnologías modernas y aplicando medidas de seguridad robustas tanto en el frontend como en el backend. La aplicación permite a los usuarios registrarse, autenticarse y participar en clases en tiempo real, incluyendo la funcionalidad de chat en tiempo real.
